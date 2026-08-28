@@ -9,3 +9,6 @@ dist/
 # Visual Studio Code
 #--------------------------------
 .vscode/
+
+# Rust
+target/
